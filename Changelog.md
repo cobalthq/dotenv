@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.5.0 - Jun 13, 2018
+
+This release restores support for multiline values.
+
 [Unreleased changes](https://github.com/bkeepers/dotenv/compare/v2.4.0...master)
 
 ## 2.4.0 - Apr 23, 2018
